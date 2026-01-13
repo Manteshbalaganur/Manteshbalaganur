@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack -AI developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Manteshbalaganur&label=Profile%20views&color=0e75b6&style=flat" alt="Manteshbalaganur" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Manteshbalaganur&theme=" alt="Manteshbalaganur" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Manteshbalaganur&theme=" alt="Manteshbalaganur" /></a> </p> -->
 
 - 🔭 I’m currently working on [Arogyamind – AI-powered mental health chatbot with local data storage.](https://arogya-iwz5.onrender.com/)
 - 👯 I’m looking to collaborate on [Arogyamind – AI-powered mental health chatbot with local data storage.](https://arogya-iwz5.onrender.com/)
@@ -51,7 +51,7 @@
 <a href="https://github.com/Manteshbalaganur">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manteshbalaganur&theme=aura" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manteshbalaganur&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manteshbalaganur&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manteshbalaganur&theme=aura" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Manteshbalaganur&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manteshbalaganur&theme=aura" height="180em" />
 </div>
